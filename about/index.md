@@ -28,13 +28,13 @@ comments: false
 ## Just watch my BBomi
 
 {% capture images %}
-    /assets/img/pm03.jpg
-    /assets/img/pm02.jpg
-    /assets/img/pm01.jpg
-    /assets/img/pm04.jpg
+    /assets/img/pm03.jpg  
+    /assets/img/pm02.jpg  
+    /assets/img/pm01.jpg  
+    /assets/img/pm04.jpg  
 {% endcapture %}
 {% include gallery images=images caption="BBomi's moment of my Precious" cols=2 %}
 
-권도일이라고 하는 사람이올 시다
+권도일이라고 하는 사람이올시다
 
 See a [my Naver Blog](http://kdi3939.blog.me/) hosted on Naver.
