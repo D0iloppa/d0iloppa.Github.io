@@ -17,12 +17,12 @@ comments: false
 ## Preview
 
 {% capture images %}
-    /assets/img/pm01.jpg
-    /assets/img/pm02.jpg
     /assets/img/pm03.jpg
+    /assets/img/pm02.jpg
+    /assets/img/pm01.jpg
     /assets/img/pm04.jpg
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+{% include gallery images=images caption="BBomi's moment of my Precious" cols=2 %}
 
 권도일이라고 하는 사람이올 시다
 
