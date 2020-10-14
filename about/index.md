@@ -25,7 +25,7 @@ comments: false
 * 전북대학교 컴퓨터공학과 졸
 
 
-## Preview
+## Just watch my BBomi
 
 {% capture images %}
     /assets/img/pm03.jpg
