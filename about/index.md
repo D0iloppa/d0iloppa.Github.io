@@ -8,7 +8,7 @@ comments: false
 
 위대해지고 싶은 것<br>
 그것은 누구나<br>
-마음속 간직한 욕망이 아닐까 싶습니다.<br>
+마음 속 간직한 욕망이 아닐까 싶습니다.<br>
 
 
 
@@ -33,7 +33,7 @@ comments: false
     /assets/img/pm01.jpg  
     /assets/img/pm04.jpg  
 {% endcapture %}
-{% include gallery images=images caption="BBomi's moment of my Precious" cols=2 %}
+{% include gallery images=images caption="BBomi's moment of my Precious" cols=4 %}
 
 권도일이라고 하는 사람이올시다
 
