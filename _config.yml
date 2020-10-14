@@ -1,11 +1,11 @@
 # Site
-title:              Doilog
+title:              The Hitchhiker's Doyclopedia to the Galaxy
 bio:                'Dovian maier'
 description:        "While the world sleep,I dream"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.jpeg'
-background:         'assets/img/mojave.PNG'
+background:         'assets/img/lofibg.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://d0iloppa.github.io/
