@@ -81,7 +81,7 @@ comments: true
 
 별모양의 나사였다.
 
-[![](https://raw.githubusercontent.com/D0iloppa/d0iloppa.github.io/master/assets/img/blogcontent/2020/10/4.png)
+![](https://raw.githubusercontent.com/D0iloppa/d0iloppa.github.io/master/assets/img/blogcontent/2020/10/4.png)
 
 두개의 전용 드라이버가 있는데
 
@@ -107,7 +107,7 @@ comments: true
 
 ​
 
-[![](https://raw.githubusercontent.com/D0iloppa/d0iloppa.github.io/master/assets/img/blogcontent/2020/10/5.png)](https://blog.naver.com/PostList.nhn?blogId=kdi3939&from=postList&categoryNo=74#)
+![](https://raw.githubusercontent.com/D0iloppa/d0iloppa.github.io/master/assets/img/blogcontent/2020/10/5.png)
 
 하판을 분해 하고 난 후의 사진
 
@@ -149,7 +149,7 @@ comments: true
 
 사진 기준으로 오른쪽의 스피커를 교체하였다.
 
-[![](https://postfiles.pstatic.net/MjAyMDEwMTZfMTgy/MDAxNjAyODMyNzc0MzI0.kZ9I0ujZDof_Q88gyEFSsgHivJmE4haGIogQJad-WG4g.ymerKqEvvXdvlZFAbJfwr5cP-5xe8hQ4_wVoTLEna2Ig.JPEG.kdi3939/IMG_2633.jpeg?type=w966)](https://blog.naver.com/PostList.nhn?blogId=kdi3939&from=postList&categoryNo=74#)
+![](https://raw.githubusercontent.com/D0iloppa/d0iloppa.github.io/master/assets/img/blogcontent/2020/10/6.png)
 
 사진에는 짤렸는데
 
@@ -163,8 +163,7 @@ comments: true
 
 주의 할 점이 있다.
 
-[![](https://postfiles.pstatic.net/MjAyMDEwMTZfMjc5/MDAxNjAyODMyODYzODUy.PfNDJqSDWV_rZxwkS3QkKPHQqOYJ9wKvittGDpCb2k8g.o-79qSS14b8DJZfpiRn-5G7z4-iJqeSDEaiwJXsyH54g.JPEG.kdi3939/KakaoTalk_Photo_2020-10-16-16-13-24.jpeg?type=w966)](https://blog.naver.com/PostList.nhn?blogId=kdi3939&from=postList&categoryNo=74#)
-
+![](https://raw.githubusercontent.com/D0iloppa/d0iloppa.github.io/master/assets/img/blogcontent/2020/10/7.png)
 위에서 아래로 넣는 방식이지
 
 가로로 찔러넣는 방식이 아니다.
@@ -183,7 +182,7 @@ comments: true
 
 보드와 스피커를 연결하는 케이블 위에 어떤 덮개 하나가 있다.
 
-[![](https://postfiles.pstatic.net/MjAyMDEwMTZfOSAg/MDAxNjAyODMzNDMyMTI3.YkujB-xqpCnBbqVmjNaIKS0VuFjpGslicoOc4xIKum8g.SbSq9XTmdz26NLS3JZG7SuR33Er5nvm9Lc1MnBbpuO4g.JPEG.kdi3939/SE-69813a43-36c4-4fdc-af9c-1073dea6bb93.jpg?type=w966)](https://blog.naver.com/PostList.nhn?blogId=kdi3939&from=postList&categoryNo=74#)
+![](https://raw.githubusercontent.com/D0iloppa/d0iloppa.github.io/master/assets/img/blogcontent/2020/10/8.png)
 
 바로 파란색으로 표시된 부분이다.
 
@@ -193,8 +192,7 @@ comments: true
 
 ​
 
-[![](https://postfiles.pstatic.net/MjAyMDEwMTZfODgg/MDAxNjAyODMzMzI2NDc4.W_JUmLZ-HqGCIAnEQu5k3FDjM7FSx4qdDp1EvJi5e4wg.vYpKtL7jkyex4MqEv2qxaKvhDIRMBBkW4TzKTGOfcbsg.JPEG.kdi3939/IMG_2632.jpeg?type=w966)](https://blog.naver.com/PostList.nhn?blogId=kdi3939&from=postList&categoryNo=74#)
-
+![](https://raw.githubusercontent.com/D0iloppa/d0iloppa.github.io/master/assets/img/blogcontent/2020/10/9.png)
 덮개를 제거하면
 
 스피커를 분리해낼 수 있다.
@@ -207,7 +205,7 @@ comments: true
 
 이제 들뜬 마음으로 내부청소도 마치고 조립을 완료하였다.
 
-[![](https://postfiles.pstatic.net/MjAyMDEwMTZfMjE5/MDAxNjAyODI5MDI1OTM0.lgQtaB5o_X2NqkBq7BX4ryVVbhPXm88R8w672l0jQ6Yg.tLesF42cJFy1HGyCGx2zUUWgRNa60z6jQ9DDzP173Isg.JPEG.kdi3939/KakaoTalk_Photo_2020-10-16-15-16-30.jpeg?type=w966)](https://blog.naver.com/PostList.nhn?blogId=kdi3939&from=postList&categoryNo=74#)
+![](https://raw.githubusercontent.com/D0iloppa/d0iloppa.github.io/master/assets/img/blogcontent/2020/10/10.png)
 
 조립을 완료하고 셜록으로 소리가 잘 나오는지 테스트 해보았다.
 
@@ -219,8 +217,7 @@ comments: true
 
 와이파이가 잡히지 않는 것이었다.
 
-[![](https://postfiles.pstatic.net/MjAyMDEwMTZfMTcg/MDAxNjAyODMzMTE4ODE5.BKZ9wR9EYUrkqW-O6d42QsFkpDq2yBEuIP-4DQDSsc8g.RvH5PWKit2rf7EwrBhMT7RIxOtqwB2jtCj8QAg-YKN4g.JPEG.kdi3939/IMG_2635.jpeg?type=w966)](https://blog.naver.com/PostList.nhn?blogId=kdi3939&from=postList&categoryNo=74#)
-
+![](https://raw.githubusercontent.com/D0iloppa/d0iloppa.github.io/master/assets/img/blogcontent/2020/10/11.png)
 멘붕에 빠졌다.
 
 스피커 말고 다른 부분은 건드린 부분이 없었고, 더러워진 내부를 청소한 후 조립한 것이 전부인데 이런 새로운 문제에 봉착하게 되었다.
@@ -229,7 +226,7 @@ comments: true
 
 혹시 먼지들을 청소하다가 이 부분이 고장이 났으려나?
 
-[![](https://postfiles.pstatic.net/MjAyMDEwMTZfMTM5/MDAxNjAyODM0MjcwOTAx.pGl67_lFgVOLZooXSRzcJ5FpAYTCdorrYksEESn-PIEg.QwiCNaCyCcQ3QIjIs4f327l5K7Ahm9Bvn4uK4xrmYOog.JPEG.kdi3939/SE-969592e2-8661-4ded-9ae5-4971a292d7cf.jpg?type=w966)](https://blog.naver.com/PostList.nhn?blogId=kdi3939&from=postList&categoryNo=74#)
+![](https://raw.githubusercontent.com/D0iloppa/d0iloppa.github.io/master/assets/img/blogcontent/2020/10/12.png)
 
 스피커가 깨지는 소리를 내는 것은 작은 문제이지만,
 
@@ -275,7 +272,7 @@ airport를 완전 분해후 안쪽 먼지까지 제거하고 다시 끼웠다.
 
 알리에 가격을 검색해보니
 
-[![](https://postfiles.pstatic.net/MjAyMDEwMTZfMjI3/MDAxNjAyODM0NTAxOTY5.RRFMfTXaul7G5hrWjbZT3Kpib0cX-xYXYhgXbU3DZ6kg.kVKbIpUZxdjqnSI0gUnS2SuaLsxvHddNsFMyiW9Jt-Ug.PNG.kdi3939/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2020-10-16_%EC%98%A4%ED%9B%84_4.47.54.png?type=w966)](https://blog.naver.com/PostList.nhn?blogId=kdi3939&from=postList&categoryNo=74#)
+![](https://raw.githubusercontent.com/D0iloppa/d0iloppa.github.io/master/assets/img/blogcontent/2020/10/13.png)
 
 32.28$
 
@@ -301,7 +298,7 @@ airport는 블루투스와 와이파이를 담당하는 부분인데
 
 ​
 
-[![](https://postfiles.pstatic.net/MjAyMDEwMTZfNjcg/MDAxNjAyODMzNjcyOTEw.9fsduBoagCfH9JyNAig8v3YQ_CxkBRMW5O2NQyqxPHcg.gg05j__nkMVWN59_z5qVeJszYfIPlCV_8qDtAESstLYg.JPEG.kdi3939/SE-9cc94ee4-0c47-4791-b25a-ea622401a1e6.jpg?type=w966)](https://blog.naver.com/PostList.nhn?blogId=kdi3939&from=postList&categoryNo=74#)
+![](https://raw.githubusercontent.com/D0iloppa/d0iloppa.github.io/master/assets/img/blogcontent/2020/10/14.png)
 
 충격!
 
