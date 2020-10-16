@@ -1,3 +1,15 @@
+---
+layout: post
+title: "맥북 프로 레티나 스피커 수리"
+date: 2020-10-16
+excerpt: "발췌문"
+mymenu: "doyclopedia"
+sub_menu: "food"
+tags: []
+comments: true
+---
+
+
 [image:3E669457-91CB-4A2D-9F72-35B40C5D5B6D-2920-00000899450F0C81/스크린샷_2020-10-16_오후_2.45.29.png]
 어느 날, 맥북 스피커에 이상이 생겼다.
 소리가 굉장히 찢겨져서 나오는 증상이었다.
