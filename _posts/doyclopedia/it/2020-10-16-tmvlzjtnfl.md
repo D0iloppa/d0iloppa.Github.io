@@ -5,7 +5,7 @@ date: 2020-10-16
 excerpt: "어느 날, 맥북 스피커에 이상이 생겼다."
 mymenu: "doyclopedia"
 sub_menu: "it"
-tags: []
+tags: [맥북,]
 comments: true
 ---
 
