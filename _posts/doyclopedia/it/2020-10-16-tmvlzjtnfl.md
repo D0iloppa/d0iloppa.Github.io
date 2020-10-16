@@ -9,7 +9,7 @@ tags: [맥북]
 comments: true
 ---
 
- <img src="https://postfiles.pstatic.net/MjAyMDEwMTZfMTMg/MDAxNjAyODI3MzMyNTM2.dA4_IyIEzzdxaamypi7ZZ8coSNwk4rPdVz893PVZGlUg.y5N06CXL95_wgOGMWruGSQYnfaOZoA_xgb_sKnkoNZUg.PNG.kdi3939/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2020-10-16_%EC%98%A4%ED%9B%84_2.45.29.png?type=w966">
+ <img src="https://raw.githubusercontent.com/D0iloppa/d0iloppa.github.io/master/assets/img/blogcontent/2020/10/1.png">
 
 어느 날, 맥북 스피커에 이상이 생겼다.
 
@@ -35,7 +35,7 @@ comments: true
 
 부품도 크게 비싸지는 않았다.
 
-[![](https://postfiles.pstatic.net/MjAyMDEwMTZfNjEg/MDAxNjAyODI5ODk5NDc5.ND_g4b82I2sXFnCpuubxKj5i-tyAs_utVfFumB_jX1Mg.0Y1mqGL4Cz_4Ydcdr67aJX8Mp3WpZl2p3Qs6MfK0tI0g.PNG.kdi3939/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2020-10-16_%EC%98%A4%ED%9B%84_3.20.39.png?type=w966)](https://blog.naver.com/PostList.nhn?blogId=kdi3939&from=postList&categoryNo=74#)
+[![](https://raw.githubusercontent.com/D0iloppa/d0iloppa.github.io/master/assets/img/blogcontent/2020/10/2.png)
 
 왼쪽 오른쪽 스피커 부품 다 합쳐서 15.99$
 
@@ -53,7 +53,7 @@ comments: true
 
 서론이 길어져서 각설,
 
-[![](https://postfiles.pstatic.net/MjAyMDEwMTZfMjk0/MDAxNjAyODMwMTc0NDE2.OdZLbVeasYCvStMKpPYuVx9dUYo3AZAKmMXFM1VtGIUg.jGuRK2tKyqrEh4LJo7vh7yOOdWpgCxDDFHkkv4_ZoZsg.PNG.kdi3939/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2020-10-16_%EC%98%A4%ED%9B%84_3.22.00.png?type=w966)](https://blog.naver.com/PostList.nhn?blogId=kdi3939&from=postList&categoryNo=74#)
+[![](https://raw.githubusercontent.com/D0iloppa/d0iloppa.github.io/master/assets/img/blogcontent/2020/10/3.png)
 
 왼쪽 오른쪽 스피커 부품을 주문하였다.
 
@@ -81,7 +81,7 @@ comments: true
 
 별모양의 나사였다.
 
-[![](https://postfiles.pstatic.net/MjAyMDEwMTZfMTk5/MDAxNjAyODMxMDIyNzI3.b4tgoRREPcVzatN_Jy1vKab6cFN91-QmI1xpuRy_rQkg._TG9b1iUlFHuAKaam5FWSSfQRPWr6mt4seo5HRL6Za4g.JPEG.kdi3939/KakaoTalk_Photo_2020-10-16-15-33-39.jpeg?type=w966)](https://blog.naver.com/PostList.nhn?blogId=kdi3939&from=postList&categoryNo=74#)
+[![](https://raw.githubusercontent.com/D0iloppa/d0iloppa.github.io/master/assets/img/blogcontent/2020/10/4.png)
 
 두개의 전용 드라이버가 있는데
 
@@ -107,7 +107,7 @@ comments: true
 
 ​
 
-[![](https://postfiles.pstatic.net/MjAyMDEwMTZfMjIw/MDAxNjAyODMyNjY3MjI3.YWm_1OusbNgXDGHz9dF5I8kBpakn-3tFvy-LNNf2gs8g.pM-pSgHhwkg5UghCCMrG7DhfitIQ3d4P_NCFiaOO4OMg.JPEG.kdi3939/IMG_2631.jpeg?type=w966)](https://blog.naver.com/PostList.nhn?blogId=kdi3939&from=postList&categoryNo=74#)
+[![](https://raw.githubusercontent.com/D0iloppa/d0iloppa.github.io/master/assets/img/blogcontent/2020/10/5.png)](https://blog.naver.com/PostList.nhn?blogId=kdi3939&from=postList&categoryNo=74#)
 
 하판을 분해 하고 난 후의 사진
 
