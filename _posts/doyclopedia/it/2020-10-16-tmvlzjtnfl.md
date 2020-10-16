@@ -9,8 +9,7 @@ tags: [맥북]
 comments: true
 ---
 
-[![](https://postfiles.pstatic.net/MjAyMDEwMTZfMTMg/MDAxNjAyODI3MzMyNTM2.dA4_IyIEzzdxaamypi7ZZ8coSNwk4rPdVz893PVZGlUg.y5N06CXL95_wgOGMWruGSQYnfaOZoA_xgb_sKnkoNZUg.PNG.kdi3939/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2020-10-16_%EC%98%A4%ED%9B%84_2.45.29.png?type=w966)](https://blog.naver.com/PostList.nhn?blogId=kdi3939&from=postList&categoryNo=74#)
-
+![](https://postfiles.pstatic.net/MjAyMDEwMTZfMTMg/MDAxNjAyODI3MzMyNTM2.dA4_IyIEzzdxaamypi7ZZ8coSNwk4rPdVz893PVZGlUg.y5N06CXL95_wgOGMWruGSQYnfaOZoA_xgb_sKnkoNZUg.PNG.kdi3939/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2020-10-16_%EC%98%A4%ED%9B%84_2.45.29.png?type=w966)
 어느 날, 맥북 스피커에 이상이 생겼다.
 
 소리가 굉장히 찢겨져서 나오는 증상이었다.
