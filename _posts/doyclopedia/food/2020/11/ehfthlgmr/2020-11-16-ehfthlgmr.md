@@ -2,13 +2,16 @@
 layout: post
 title: "전주고 후문 돌쇠 흑 도야지"
 date: 2020-10-15
-excerpt: " 칠레산 돼지. 무한리필이 특징이다. 국내산이 맛있다는 것이 통념이지만 사실상 큰 차이가 없다고 본다. 초벌로 살짝 익혀져서 나오고 밥도 무한리필이다. 시골 가든에서 흔히 맛볼 수 있는 수준(긍정적인 의미)의 삼겹살 맛이다."
+excerpt: "미국의 16대 대통령 에이브러햄 링컨은"
 mymenu: "doyclopedia"
 sub_menu: "food"
 tags: [전주고맛집, 삼겹살, 무한리필, 전주맛집, 노송동]
 comments: true
 ---
 
+​
+![](https://raw.githubusercontent.com/D0iloppa/d0iloppa.github.io/master/_posts/doyclopedia/food/2020/11/ehfthlgmr/1.jpg)
+![](https://raw.githubusercontent.com/D0iloppa/d0iloppa.github.io/master/_posts/doyclopedia/food/2020/11/ehfthlgmr/2.jpg)
 
 
 삼겹살 (pork belly)
