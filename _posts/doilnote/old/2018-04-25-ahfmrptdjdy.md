@@ -2,7 +2,7 @@
 layout: post
 title: "모르겠어요"
 date: 2018-04-25
-excerpt: "해가 쨍쨍떠서 차 안이 매우 더워져있었다"
+excerpt: "세상이 제 뜻대로 되지 않는게 그게 인생이라고들 하던데"
 mymenu: "doilnote"
 tags: []
 comments: true
@@ -64,5 +64,5 @@ comments: true
 
 노력이 부족한 건가요?
 아니면 여기가 제 자리인가요?
-아니면 아직은 철 덜든 
+아니면 아직은 철 덜든
 어린 저의 투정일 뿐인가요
